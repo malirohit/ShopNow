@@ -1,4 +1,4 @@
-Creae env files in frontend , backend and admin folder as below :
+Create env files in frontend , backend and admin folder as below :
 
 ## .env for frontend
 
